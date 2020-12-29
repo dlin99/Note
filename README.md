@@ -1,0 +1,2 @@
+# Note
+Django Notes
